@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## TODO App [Live Link](https://name-conversion-js.netlify.app/)
+## TODO App [Live Link](https://todo-appp-js.netlify.app/)
 
 - Skills Gained in this project
 
